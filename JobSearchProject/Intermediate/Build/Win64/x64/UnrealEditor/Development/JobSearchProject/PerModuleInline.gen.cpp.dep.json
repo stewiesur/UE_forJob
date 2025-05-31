@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\document\\github\\ue_forjob\\jobsearchproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\jobsearchproject\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\document\\github\\ue_forjob\\jobsearchproject\\intermediate\\build\\win64\\x64\\jobsearchprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\document\\github\\ue_forjob\\jobsearchproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\jobsearchproject\\definitions.jobsearchproject.h",
+            "c:\\software\\epic games\\fall guys\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

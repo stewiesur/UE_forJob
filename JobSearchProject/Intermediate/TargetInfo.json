@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JobSearchProject",
+			"Path": "..\\Source\\JobSearchProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JobSearchProjectEditor",
+			"Path": "..\\Source\\JobSearchProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

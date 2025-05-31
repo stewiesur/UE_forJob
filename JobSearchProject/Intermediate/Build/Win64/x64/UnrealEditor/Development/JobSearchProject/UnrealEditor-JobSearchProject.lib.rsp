@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-JobSearchProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\document\github\UE_forJob\JobSearchProject\Intermediate\Build\Win64\x64\JobSearchProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\document\github\UE_forJob\JobSearchProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\JobSearchProject\JobSearchProject.cpp.obj"
+"C:\document\github\UE_forJob\JobSearchProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\JobSearchProject\PerModuleInline.gen.cpp.obj"
+"C:\document\github\UE_forJob\JobSearchProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\JobSearchProject\Default.rc2.res"
+/OUT:"C:\document\github\UE_forJob\JobSearchProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\JobSearchProject\UnrealEditor-JobSearchProject.lib"

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\document\\github\\UE_forJob\\JobSearchProject\\Source\\JobSearchProject\\JobSearchProject.Build.cs",
+		"C:\\document\\github\\UE_forJob\\JobSearchProject\\Source\\JobSearchProject.Target.cs",
+		"C:\\document\\github\\UE_forJob\\JobSearchProject\\Source\\JobSearchProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
